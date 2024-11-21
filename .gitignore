@@ -1,0 +1,23 @@
+# Binaries for programs and libraries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build directories
+target/
+build/
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Rust specific
+Cargo.lock
+
